@@ -2,12 +2,15 @@
 .s-main-title {
     color: #fff;
 }
+
 .s-main-details {
     color: #fff;
 }
-.s-img{
+
+.s-img {
     object-fit: cover;
 }
+
 .overlay {
 
     position: absolute;
