@@ -43,3 +43,17 @@
 .card-body .details {
     color: #777777;
 }
+
+/* FAQ */
+.accordion-item {
+    margin-bottom: 20px;
+}
+
+/* FAQ END */
+
+/* Footer */
+footer {
+    background-color: #161616;
+    color: #fff;
+}
+
