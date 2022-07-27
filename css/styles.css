@@ -26,8 +26,7 @@
     z-index: 0;
 }
 
-
-/* Coures */
+/* Course */
 .c-main-title {
     color: #1D1D1D;
 }
@@ -44,16 +43,37 @@
     color: #777777;
 }
 
-/* FAQ */
+/* Faq */
 .accordion-item {
     margin-bottom: 20px;
 }
 
-/* FAQ END */
+/* Faq END */
 
+/* Counter */
+.counter {
+    background-color: #F4FAFD;
+}
+
+.counter-title {
+    color: #1D1D1D;
+}
+
+.counter-details {
+    color: #777777;
+}
+
+.counters h2 {
+    color: #1D1D1D;
+}
+
+.counters p {
+    color: #777777;
+}
+
+/* Counter END */
 /* Footer */
 footer {
     background-color: #161616;
     color: #fff;
 }
-
