@@ -1,17 +1,38 @@
-/* Crousel Modify */
-/* 
-.carousel-caption-armschool {
-  
-  
-} */
+/* Sliders */
+.s-main-title {
+    color: #fff;
+}
+.s-main-details {
+    color: #fff;
+}
+.s-img{
+    object-fit: cover;
+}
+.overlay {
+
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0.5;
+
+    background-color: #1D1D1D;
+    z-index: 0;
+}
+
 
 /* Coures */
-.c-main-title{
+.c-main-title {
     color: #1D1D1D;
 }
-.c-main-details{
+
+.c-main-details {
     color: #777777;
 }
+
 .card-body .card-title {
     color: #444444;
 }
