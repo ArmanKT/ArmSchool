@@ -100,6 +100,10 @@ body {
 /* Counter END */
 
 /* Student */
+.student-border{
+    margin: 10px;
+    border: 1px solid #E8E8E8;
+}
 .student-title{
     color: #4A4A4A;
 }
@@ -107,6 +111,21 @@ body {
     color: #777777;
 }
 /* Student ENd */
+
+/* Feedback */
+
+.feed-border{
+    margin: 2px;
+    padding: 10px;
+    border: 1px solid #E8E8E8;
+}
+.author .author-name{
+color: #4A4A4A;
+}
+.author .author-des{
+color: #777777;
+}
+/* Feedback End */
 /* Footer */
 footer {
     background-color: #161616;
