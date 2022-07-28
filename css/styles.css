@@ -1,4 +1,27 @@
 /* Sliders */
+
+
+@media screen and (max-width: 479px) {
+    .carousel-caption {
+        top: 20%;
+        bottom: auto;
+    }
+}
+
+@media screen and (min-width: 480px) and (max-width: 640px) {
+    .carousel-caption {
+        top: 20%;
+        bottom: auto;
+    }
+}
+
+@media screen and (min-width: 641px) {
+    .carousel-caption {
+        top: 40%;
+        bottom: auto;
+    }
+}
+
 .s-main-title {
     color: #fff;
 }
