@@ -113,7 +113,9 @@ body {
 /* Student ENd */
 
 /* Feedback */
-
+.feedback-deatils{
+    color: #777777;
+}
 .feed-border{
     margin: 2px;
     padding: 10px;
