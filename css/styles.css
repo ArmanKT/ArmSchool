@@ -1,3 +1,6 @@
+body {
+    font-family: 'Poppins';
+}
 /* Sliders */
 
 
@@ -95,6 +98,15 @@
 }
 
 /* Counter END */
+
+/* Student */
+.student-title{
+    color: #4A4A4A;
+}
+.student-info{
+    color: #777777;
+}
+/* Student ENd */
 /* Footer */
 footer {
     background-color: #161616;
